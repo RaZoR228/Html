@@ -1,0 +1,128 @@
+@font-face{
+	font-family:font;
+	src:url(12454.ttf);
+}
+body{
+	font-family:font;
+}
+.center{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.flex{
+	display: flex;
+}
+.header{
+	height: 100px;	
+}
+	.logo{
+		border-radius: 50%;
+		width: 100px;
+	}
+.banner{
+	height: 400px;
+	background-color: blue;
+}
+.banner_h2{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 50px;
+}
+.banner_h2:hover{
+	color:#FF0099;
+	font-size:50px;
+	transition:0.5s;
+}
+.veg_block{
+	height: 400px;
+	width: 400px;
+	background-image: url(vegan.jpg);
+	background-size: 100% 100%;
+	position: relative;
+	box-sizing: border-box;
+
+}
+.english_block{
+	height: 400px;
+	width: 700px;
+	background-image: url(english.jpg);
+	background-position: center;
+	position: relative;
+	box-sizing: border-box;
+}
+.eco_block{
+	height: 400px;
+	width: 400px;
+	background-image: url(ecobio.jpg);
+	background-size: 100% 100%;
+	position: relative;
+	box-sizing: border-box;
+}
+.history{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
+.history_img{
+	width: 500px;
+	margin-right: 50px;
+	border-radius: 5px;
+}
+.menu{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: pink;
+}
+.gallery{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: grey;
+}
+.footer{
+	height: 200px;
+	background-color: purple;
+}
+p{
+	font-size: 25px;
+}
+.h1{
+	text-align: center;
+}
+.p{
+	font-size: 40px;
+	text-align: center;
+}
+.gallery{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.img_menu{
+	height: 300px;
+	width: 420px;
+}
+.menu{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.footer{
+	height: 200px;
+	background-color: purple;
+}
+.height{
+	height: 420px;
+}
+.p-t{
+	margin-top: 50px;
+}
+.m-l{
+	margin-left: 70px;
+}
+.m-l-123{
+	margin-left: 60px;
+}
+.blokada{
+	height: 420px;
+	width: 420px;
+}
